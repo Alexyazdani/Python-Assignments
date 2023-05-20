@@ -1,0 +1,6 @@
+This is the test file for Lab 7: File Processing
+These are the opening lines to "Like a Rolling Stone" by Bob Dylan:
+Once upon a time you dressed so fine
+Threw the bums a dime in your prime, didn't you?
+People call, say, "Beware doll you're bound to fall"
+You thought they were all kiddin' you

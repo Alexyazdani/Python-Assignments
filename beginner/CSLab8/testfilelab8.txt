@@ -1,0 +1,6 @@
+This is the test file for Lab 8: Linguistic Analysis
+This is the first stanza of "All Along the Watchtower" by Bob Dylan
+There must be some way out of here
+Said the joker to the thief
+There's too much confusion
+I can't get no relief
